@@ -7,6 +7,7 @@ Server usage : ./serverJ2T3 -p \<port> -g \<gravity> -m \<map>
 Client usage : ./clientJ2T3 -h \<ip> -p \<port>
 
 Press space to fire and release to stop.
+
 Made by : Cesar Baud & Quentin Noel.
 
 # Implemented protocol :
