@@ -1,0 +1,5 @@
+void	my_error(char *str)
+{
+  fprintf(stderr, "%s\n", str);
+  exit(84);
+}
